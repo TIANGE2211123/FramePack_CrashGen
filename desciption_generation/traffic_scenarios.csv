@@ -1,0 +1,385 @@
+Scenario_ID,Type,Description
+001373,Crash,"A dark sedan loses control at high speed on a highway, spinning wildly before slamming into another vehicle and causing a multi-car pile-up."
+001373,Near-Crash,"A car with a dashboard camera brakes hard and swerves as a dark sedan ahead loses control and spins across the wet highway, narrowly avoiding a collision."
+001373,Safe,A car with a dashboard camera maintains a steady speed while driving straight in its lane on a highway bridge.
+001374,Crash,"A dark SUV T-bones another car that runs a red light at a busy intersection, causing a violent impact."
+001374,Near-Crash,A dark SUV brakes abruptly and swerves slightly as another vehicle unexpectedly pulls out in front of it at an intersection.
+001374,Safe,A dark SUV proceeds cautiously through an intersection after yielding to oncoming traffic.
+001375,Crash,"A red car is rear-ended by a dark car and violently pushed into the silver station wagon in front of it, causing a multi-car pileup."
+001375,Near-Crash,"A red car brakes suddenly, and the following dark car swerves sharply to narrowly avoid a rear-end collision."
+001375,Safe,"A red car stops safely in traffic, maintaining a good following distance from the silver car in front."
+001376,Crash,A scooter rider is struck and run over by a yellow taxi that fails to yield while making a left turn.
+001376,Near-Crash,A scooter rider swerves sharply to avoid being T-boned by a yellow taxi that makes a sudden left turn without yielding.
+001376,Safe,"A scooter rider slows down and safely navigates an intersection, yielding to a turning yellow taxi."
+001377,Crash,"A white car, fleeing from a police car, loses control on a narrow turn and crashes into a ditch."
+001377,Near-Crash,A police car swerves to avoid a white car that unexpectedly veers into its lane during a pursuit.
+001377,Safe,A white car signals and pulls over safely to the side of the road as a police car approaches from behind.
+001378,Crash,"A silver SUV attempts to cut in front of a gray car as the light turns green, causing a sideswipe collision at the intersection."
+001378,Near-Crash,"A silver SUV suddenly swerves into the lane of a gray car at a red light, nearly causing a sideswipe as the light turns green."
+001378,Safe,A gray sedan and a silver SUV wait patiently side-by-side at a red light for it to turn green.
+001379,Crash,A dark car attempts to overtake another vehicle but misjudges the distance and collides head-on with the dashcam car.
+001379,Near-Crash,A dark car pulls into the oncoming lane to overtake but has to swerve back abruptly to narrowly avoid a head-on collision with the dashcam car.
+001379,Safe,A dark car waits for a clear opening in traffic before safely overtaking another vehicle on a two-lane road.
+001380,Crash,The dashcam car fails to stop in time on a wet road at night and violently rear-ends the car in front of it.
+001380,Near-Crash,The dashcam car slams on its brakes to narrowly avoid rear-ending a car that stops suddenly in front of it on a wet night.
+001380,Safe,"The dashcam car maintains a safe following distance in heavy traffic on a wet road at night, braking smoothly as needed."
+001381,Crash,"A white car merges directly into the side of a black SUV, causing both vehicles to lose control and crash violently."
+001381,Near-Crash,"A white car merges aggressively into the side of a black SUV, forcing the SUV to swerve to narrowly avoid a high-speed collision."
+001381,Safe,"A white car merges safely onto a highway, yielding to a black SUV already in the lane."
+001382,Crash,"A silver station wagon turns left directly into the path of the dashcam car, resulting in a violent T-bone collision."
+001382,Near-Crash,"A silver station wagon pulls out to make a left turn, forcing the dashcam car to slam on its brakes to narrowly avoid a T-bone collision."
+001382,Safe,A silver station wagon waits for a clear gap in traffic before safely making a left turn at a crosswalk.
+001383,Crash,The dashcam car is rear-ended by a distracted driver while stopped for pedestrians at a crosswalk.
+001383,Near-Crash,The dashcam car swerves to avoid a car that illegally overtakes it on the right and cuts in front to avoid hitting pedestrians in a crosswalk.
+001383,Safe,"The dashcam car slows down and comes to a complete stop at a crosswalk, allowing pedestrians to cross the street."
+001384,Crash,"A red car is T-boned by a silver station wagon that merges recklessly into its lane, sending both cars spinning."
+001384,Near-Crash,"A red car swerves violently to avoid a silver station wagon that suddenly cuts it off while merging, narrowly avoiding a collision."
+001384,Safe,"A red car merges safely onto the highway, yielding to traffic before smoothly entering the lane."
+001385,Crash,The dashcam car is struck head-on by an oncoming vehicle that hydroplanes and spins across the center line on the wet road.
+001385,Near-Crash,The dashcam car swerves violently to avoid a car that hydroplanes and spins out of control on the wet road ahead.
+001385,Safe,"The dashcam car drives cautiously on a wet road at night, maintaining a safe distance from other vehicles as rain falls."
+001386,Crash,"A scooter rider is struck by a yellow taxi that pulls out unexpectedly, sending the rider flying over the handlebars."
+001386,Near-Crash,"A scooter rider swerves sharply to avoid a yellow taxi that makes a sudden, unsignaled U-turn in the middle of the street."
+001386,Safe,"A scooter rider safely navigates a busy city street, yielding to a yellow taxi that is making a turn."
+001387,Crash,"A motorcyclist collides with a car door that is suddenly opened in their path, throwing them from the bike."
+001387,Near-Crash,A motorcyclist swerves sharply to avoid a car that unexpectedly opens its door into the lane of traffic.
+001387,Safe,"Several motorcyclists ride in a staggered formation on a city street, maintaining safe distances and obeying traffic laws."
+001388,Crash,"A police car, in pursuit of a white sedan, is forced off the road and crashes into a tree when the sedan brake-checks it."
+001388,Near-Crash,"A white sedan swerves erratically, nearly sideswiping the police car as the officer attempts to initiate a traffic stop."
+001388,Safe,"A police car safely follows a white sedan on a rural road, maintaining a constant speed and distance."
+001389,Crash,"A gray car strikes a pedestrian who sprints across the road without looking, sending them flying into the air."
+001389,Near-Crash,A gray car swerves and brakes hard to avoid hitting a pedestrian who suddenly runs out into the street.
+001389,Safe,"A gray car slows down and stops for a pedestrian at a crosswalk, waiting for them to cross safely before proceeding."
+001390,Crash,A silver car blows through a stop sign and is violently T-boned by a silver station wagon in the middle of the intersection.
+001390,Near-Crash,A silver car runs a stop sign and narrowly avoids being T-boned by a silver station wagon that has the right-of-way.
+001390,Safe,"A silver car slows down and stops at a crosswalk, allowing a silver station wagon to proceed through the intersection."
+001391,Crash,"A large piece of scrap metal falls from a garbage truck, shattering the windshield of the green sports car following behind and causing it to crash."
+001391,Near-Crash,A green sports car swerves into the oncoming lane to avoid a large piece of debris that falls from the back of a garbage truck.
+001391,Safe,"A green sports car follows a garbage truck at a safe distance on a winding road, waiting for a safe opportunity to pass."
+001392,Crash,"A blue SUV collides with a jackknifed fuel truck, causing a massive explosion that engulfs both vehicles in flames."
+001392,Near-Crash,A blue SUV swerves violently to avoid rear-ending a fuel truck that has jackknifed and blocked the road ahead.
+001392,Safe,"A blue SUV slows down and maintains a safe distance behind a stopped fuel truck on a wet, rural road."
+001393,Crash,"A white sedan is violently sideswiped by a black SUV that makes an aggressive, high-speed lane change, sending both cars spinning."
+001393,Near-Crash,"A white sedan swerves violently to avoid a black SUV that suddenly cuts it off, narrowly avoiding a high-speed collision."
+001393,Safe,"A white sedan cautiously changes lanes on the highway, signaling its intention and waiting for a safe opening in traffic."
+001394,Crash,A blue truck slides on a snowy road and T-bones a yellow tram as it crosses the intersection.
+001394,Near-Crash,"A blue truck skids to a stop on a snowy road, narrowly avoiding a collision with a tram that is crossing the intersection."
+001394,Safe,"A blue truck slows down and stops safely behind a tram, waiting for it to proceed through the snowy intersection."
+001395,Crash,A dark hatchback is T-boned by a speeding car that runs a red light at the intersection on a rainy night.
+001395,Near-Crash,"A dark hatchback swerves to avoid a car that runs a red light, skidding on the wet pavement and narrowly missing a collision."
+001395,Safe,"A dark hatchback slows down as it approaches an intersection, preparing to stop for a red light on a rainy evening."
+001396,Crash,A dark hatchback T-bones a black SUV that makes an abrupt right turn from the left lane without signaling.
+001396,Near-Crash,A dark hatchback swerves sharply to avoid T-boning a black SUV that suddenly cuts it off to make a right turn.
+001396,Safe,A dark hatchback slows down and follows a black SUV at a safe distance as they both approach an intersection.
+001397,Crash,"A red car pulls out from a parking spot directly into the path of the dashcam car, causing a violent T-bone collision."
+001397,Near-Crash,"A red car suddenly pulls out from a parking spot without looking, forcing the dashcam car to slam on its brakes to avoid a collision."
+001397,Safe,"The dashcam car drives slowly down a narrow street, cautiously approaching a red car parked on the side."
+001398,Crash,A silver car runs a red light at high speed and T-bones a car that is proceeding through the intersection on a green light.
+001398,Near-Crash,A silver car runs a red light and narrowly avoids a collision with a car that is turning left on a green arrow.
+001398,Safe,"A silver car cautiously approaches an intersection and stops for the red light, waiting for it to turn green."
+001399,Crash,"A teal van abruptly pulls out from the shoulder and is violently T-boned by the dashcam car, which has no time to react."
+001399,Near-Crash,"A teal van makes a sudden U-turn from the far-right lane, forcing the dashcam car to slam on its brakes to narrowly avoid a T-bone collision."
+001399,Safe,"A teal van slows down and safely pulls to the side of the road, coming to a stop as other cars pass."
+001400,Crash,"A black SUV is T-boned by an oncoming car that loses control on the wet, steamy street and spins into its lane."
+001400,Near-Crash,"A black SUV brakes hard and swerves to avoid an oncoming car that loses control and spins out on the wet, steamy street."
+001400,Safe,"A black SUV drives slowly on a wet, steamy city street at night, maintaining a safe distance from other cars."
+001401,Crash,A silver sedan is violently T-boned by a speeding car that recklessly cuts across three lanes of traffic.
+001401,Near-Crash,A silver sedan swerves sharply at the last second to avoid a speeding car that cuts across three lanes of traffic.
+001401,Safe,"A silver sedan cautiously changes lanes on a multi-lane road, allowing ample space for other vehicles."
+001402,Crash,"A police car, with lights and sirens on, is T-boned by a car that fails to yield at an intersection."
+001402,Near-Crash,"A police car, with lights and sirens on, swerves suddenly to avoid a car that fails to yield, narrowly missing a collision."
+001402,Safe,"A police car, with lights and sirens on, carefully weaves through traffic, and other drivers safely yield the right of way."
+001403,Crash,"A black car loses control while turning at a snowy intersection, spinning out and being T-boned by an oncoming car."
+001403,Near-Crash,A black car loses traction while turning on a snowy road and nearly slides into an oncoming vehicle.
+001403,Safe,"A black car makes a slow, cautious left turn at a snowy intersection, yielding to oncoming traffic."
+001404,Crash,"A black sedan cuts off the dashcam car and slams on its brakes, causing a violent rear-end collision."
+001404,Near-Crash,"A black sedan swerves abruptly into the dashcam car's lane, forcing it to brake hard to avoid a rear-end collision."
+001404,Safe,The dashcam car drives cautiously behind a black sedan that signals and makes a safe lane change.
+001405,Crash,"A white shuttle bus is struck by a large piece of debris that falls from an overpass, shattering the windshield and causing the driver to lose control."
+001405,Near-Crash,"A white shuttle bus swerves sharply to avoid a large piece of debris that suddenly flies off an overpass, narrowly avoiding a collision."
+001405,Safe,A white shuttle bus drives cautiously on the highway as a small white object flutters harmlessly past its windshield.
+001406,Crash,"A motorcyclist collides with a pedestrian who runs into the street without looking, sending both to the pavement."
+001406,Near-Crash,A motorcyclist swerves sharply to avoid a pedestrian who suddenly steps out into the road from behind a parked car.
+001406,Safe,"A motorcyclist slows down and yields to a pedestrian crossing at a marked crosswalk, proceeding only after the way is clear."
+001407,Crash,"A motorcyclist loses control while braking in traffic, skidding and crashing into the rear of a silver hatchback."
+001407,Near-Crash,"A motorcyclist loses balance while braking sharply, wobbling and nearly falling into the side of a stationary car."
+001407,Safe,A motorcyclist carefully filters through stopped traffic and comes to a controlled stop behind a silver hatchback.
+001408,Crash,"A motorcyclist loses control on a sharp turn, crossing the double yellow line and colliding head-on with an oncoming car."
+001408,Near-Crash,"A motorcyclist locks up their brakes and swerves sharply to avoid rear-ending a car that suddenly slows down on a narrow, winding road."
+001408,Safe,"A group of motorcyclists rides single-file at a safe speed down a winding country road, keeping a safe distance from a car ahead."
+001409,Crash,A dark sedan speeds through a red light and is violently T-boned by a large truck crossing the intersection.
+001409,Near-Crash,"A dark sedan runs a red light, forcing a large truck entering the intersection to brake hard and swerve, narrowly avoiding a high-speed T-bone collision."
+001409,Safe,"A dark sedan approaches an intersection with a stale red light and brakes smoothly to a complete stop, waiting for the light to change."
+001410,Crash,"A blue car loses control while overtaking, spinning out and being crushed by the massive cement mixer it was trying to pass."
+001410,Near-Crash,"A blue car recklessly cuts off the cement mixer, forcing the dashcam car to brake suddenly as the truck swerves to avoid a collision."
+001410,Safe,The dashcam car maintains a safe following distance behind a cement mixer on the highway as other cars merge and pass smoothly.
+001411,Crash,"A car, blinded by the intense purple flames, plows into the back of a burning, stopped vehicle on a snowy highway."
+001411,Near-Crash,"A car swerves erratically at the last moment to avoid a stationary vehicle engulfed in purple flames on a dark, snow-covered highway."
+001411,Safe,The dashcam car slows down and cautiously moves to the left lane to provide ample space for a vehicle stopped on the shoulder of a snowy highway at night.
+001412,Crash,"A large truck misjudges the speed of the dashcam car and turns directly into its path, causing a violent head-on collision."
+001412,Near-Crash,"A large truck makes a wide, fast turn into the path of the dashcam car, forcing it to slam on its brakes and swerve off the road to narrowly avoid a head-on collision."
+001412,Safe,"The dashcam vehicle slows down as it approaches an intersection, yielding to a large truck turning left across its path."
+001413,Crash,"A tire on a large dump truck blows out, causing the driver to lose control and swerve into the adjacent lane, sideswiping a passing car."
+001413,Near-Crash,"A tire on a large dump truck explodes, sending a huge cloud of dust and debris across the highway and forcing the cars behind it to swerve."
+001413,Safe,"The dashcam car maintains a safe following distance as a dump truck drives ahead, while another car passes both vehicles in the left lane."
+001414,Crash,"A large dump truck reverses without warning, crushing the front of the silver sedan stopped behind it at the construction site."
+001414,Near-Crash,"A large truck begins to roll backward unexpectedly, forcing the driver of the silver sedan behind it to honk and swerve to avoid being hit."
+001414,Safe,"A silver sedan stops safely behind a large truck in a single-lane construction zone, waiting for traffic to move."
+001415,Crash,"A white truck pulls out from a side road directly into the path of the dashcam car, causing a violent T-bone collision on the wet highway."
+001415,Near-Crash,"A white truck pulls out from a side road, forcing the dashcam car to swerve sharply to the left to narrowly avoid a T-bone collision on the wet highway."
+001415,Safe,"The dashcam car reduces speed on a wet road, maintaining a safe distance from other vehicles during a light rain."
+001416,Crash,A dark SUV attempts a reckless left turn across a busy highway and is T-boned by an oncoming car.
+001416,Near-Crash,"A dark SUV makes a sudden, unsignaled left turn across multiple lanes of traffic, forcing oncoming cars to slam on their brakes to avoid a collision."
+001416,Safe,A dark SUV signals and waits for a safe gap in traffic before making a left turn onto a busy highway.
+001417,Crash,"A black car loses control while attempting a reckless overtake on the shoulder, swerving into traffic and causing a multi-car pileup."
+001417,Near-Crash,"A black car makes an aggressive, high-speed pass on the right shoulder, narrowly avoiding a collision as it cuts back into traffic."
+001417,Safe,"A silver sedan safely overtakes a white van on the highway, using its signal and leaving ample room."
+001418,Crash,"A large truck carelessly changes lanes and sideswipes a white sedan, crushing it against another vehicle."
+001418,Near-Crash,"A large truck drifts into the lane of a white sedan, forcing the sedan to brake hard and narrowly avoid being pinned against the adjacent car."
+001418,Safe,A white sedan maintains its lane position as a large truck carefully merges into the adjacent lane in heavy traffic.
+001419,Crash,"A semi-truck merges directly into the dashcam car, causing a violent sideswipe that sends the car spinning across the highway."
+001419,Near-Crash,"A semi-truck merges into the dashcam car's lane without signaling, forcing the car to brake hard and swerve to narrowly avoid being sideswiped."
+001419,Safe,The dashcam car maintains a safe following distance and speed while traveling on a multi-lane highway.
+001420,Crash,"A dark sedan cuts off the dashcam car and then brake-checks it, causing a violent rear-end collision."
+001420,Near-Crash,"A dark sedan makes a sudden, aggressive lane change without signaling, forcing the dashcam car to brake hard to avoid a rear-end collision."
+001420,Safe,"The dashcam car drives cautiously, maintaining a safe following distance behind a dark sedan on a city street."
+001421,Crash,A large truck speeds through a red light and is violently T-boned by a car entering the intersection on a green light.
+001421,Near-Crash,The dashcam car slams on the brakes to narrowly avoid colliding with a large truck that runs a red light at the intersection.
+001421,Safe,"A truck approaches an intersection with a red light and comes to a complete, controlled stop."
+001422,Crash,"A dark minivan is violently rear-ended by a car that fails to stop in time on the snowy road, causing a multi-car pileup."
+001422,Near-Crash,"A dark minivan brakes suddenly on a snowy road, forcing the following car to swerve onto the shoulder to narrowly avoid a rear-end collision."
+001422,Safe,A dark minivan maintains a safe speed and following distance while driving on a snowy road during a light snowfall.
+001423,Crash,"A white van recklessly drives onto a snowy sidewalk, loses traction, and slides into a utility pole."
+001423,Near-Crash,"A white van swerves onto a snowy sidewalk to bypass traffic, nearly losing control as it hits a patch of ice."
+001423,Safe,"A white van drives slowly down a slushy road, carefully navigating around patches of snow and ice."
+001424,Crash,"A red hatchback hits a deep puddle at high speed, hydroplanes, and crashes into a parked car near a pedestrian with a stroller."
+001424,Near-Crash,"A red car speeds through a large puddle, causing the driver to briefly hydroplane and nearly lose control next to pedestrians."
+001424,Safe,A red car slows down to avoid splashing pedestrians and a stroller as it passes a large puddle on the side of the road.
+001425,Crash,A silver car rams the red car behind it and the silver car in front of it multiple times while trying to force its way out of the parking spot.
+001425,Near-Crash,"A silver car aggressively reverses and nearly hits the red car, then pulls forward and almost scrapes the car in front while exiting the tight spot."
+001425,Safe,"A silver car is carefully parked in a tight parallel spot, leaving adequate room for the cars in front and behind."
+001426,Crash,"A massive traffic light fixture suddenly snaps from its wires and plummets to the ground, crashing directly onto the hood of a passing car."
+001426,Near-Crash,"A large traffic light fixture swings dangerously in the wind, nearly breaking free and falling as the dashcam car passes underneath."
+001426,Safe,The dashcam car proceeds cautiously under an overpass as other cars drive normally in the opposite direction.
+001427,Crash,A white van runs a red light at an intersection and is violently T-boned by the dashcam car.
+001427,Near-Crash,"A white van runs a red light but brakes hard at the last second, narrowly avoiding a T-bone collision with the dashcam car."
+001427,Safe,"A white van stops at the red light on a wet, cobblestone street, waiting for the signal to change before proceeding."
+001428,Crash,A white delivery van speeds through a red light and is violently T-boned by the dashcam car in the middle of the intersection.
+001428,Near-Crash,"A white delivery van runs a red light, forcing the dashcam car to slam on its brakes and swerve, narrowly avoiding a high-speed collision."
+001428,Safe,"A white delivery van approaches a red light and comes to a safe, controlled stop behind the line."
+001429,Crash,"A blue sedan loses control on a snowy street, sliding sideways directly into the path of the dashcam car for a head-on collision."
+001429,Near-Crash,"A blue sedan loses traction and fishtails on the snowy road, but the driver corrects the skid and narrowly avoids spinning out."
+001429,Safe,"A blue sedan drives cautiously on a snowy road, maintaining control and a steady speed."
+001430,Crash,"A black sedan loses traction on a wet overpass, spinning 360 degrees before being slammed into by the dashcam car."
+001430,Near-Crash,"A black sedan loses traction on a wet overpass and spins, but the driver regains control just in time to avoid hitting the wall or other cars."
+001430,Safe,"A black sedan safely navigates a wet overpass, maintaining a steady speed and control of the vehicle."
+001431,Crash,"A white classic car swerves to avoid hitting pedestrians, losing control and crashing into a parked car on the side of the road."
+001431,Near-Crash,"A white classic car slams on its brakes and swerves, narrowly missing pedestrians who stepped into the road unexpectedly."
+001431,Safe,A white classic car slows down and stops safely as pedestrians enter the crosswalk.
+001432,Crash,"A silver SUV is violently T-boned by a black SUV, causing it to flip multiple times and scatter debris across the highway, narrowly missing the dashcam car."
+001432,Near-Crash,"A black SUV runs a stop sign and nearly T-bones a silver SUV, which swerves and brakes hard to avoid a collision, forcing the dashcam car to brake suddenly."
+001432,Safe,The dashcam car maintains a safe following distance on a rural highway as a silver SUV signals and safely makes a turn ahead.
+001433,Crash,"A silver SUV loses control on a snowy road and spins out directly into the path of the overtaking dashcam car, causing a violent collision."
+001433,Near-Crash,"A silver SUV fishtails slightly on a snowy road as it's being overtaken, but the driver corrects and narrowly avoids a collision with the passing car."
+001433,Safe,"A silver SUV drives cautiously on a snowy road, maintaining a steady path in its lane as another car passes."
+001434,Crash,"A black SUV, driving recklessly on the wrong side of a narrow snowy street, collides head-on with the dashcam car."
+001434,Near-Crash,"A black SUV driving on the wrong side of a narrow, snowy street forces the dashcam car to swerve into a snowbank to narrowly avoid a head-on collision."
+001434,Safe,"A black SUV waits for the dashcam car to pass on a narrow, snowy street before proceeding."
+001435,Crash,A red car is violently T-boned by a white SUV that runs a red light at a city intersection.
+001435,Near-Crash,"A white SUV runs a red light but brakes hard, skidding to a stop just inches from T-boning a red car turning in the intersection."
+001435,Safe,"A red car and a white SUV both safely stop at a city intersection, waiting for the light to change."
+001436,Crash,"A white delivery van makes an illegal U-turn directly into the path of the dashcam car, causing a violent T-bone collision."
+001436,Near-Crash,"A white delivery van makes a sudden U-turn without signaling, forcing the dashcam car to slam on its brakes and swerve to narrowly avoid a T-bone collision."
+001436,Safe,A white delivery van signals and waits for a safe gap in traffic before executing a legal U-turn.
+001437,Crash,The dashcam car fails to notice a stopped yellow bus in traffic and slams into the back of it at high speed.
+001437,Near-Crash,"A yellow bus brakes suddenly on the highway, forcing the dashcam car to swerve onto the shoulder to narrowly avoid a rear-end collision."
+001437,Safe,The dashcam car slows down and stops a safe distance behind a yellow bus that has stopped in traffic on the highway.
+001438,Crash,A black car speeds through an intersection and violently T-bones a white sedan that is making a turn.
+001438,Near-Crash,"A black car nearly collides with a white sedan at an intersection after misjudging the timing of the turn, braking hard to avoid a T-bone crash."
+001438,Safe,"A black car stops at an intersection, yielding the right-of-way to a white sedan making a turn."
+001439,Crash,A red car is violently sideswiped by a blue hatchback that hydroplanes off the wet shoulder and spins directly into its path.
+001439,Near-Crash,A red car swerves sharply to avoid a blue hatchback that loses control on the wet shoulder and nearly spins out into the travel lane.
+001439,Safe,A red car maintains its lane and a safe speed on a wet highway as other cars navigate the rainy conditions.
+001440,Crash,A small black car pulls out from behind a truck in dense fog and is immediately T-boned by a white van it didn't see coming.
+001440,Near-Crash,"A small black car pulls into the oncoming lane to pass a truck in dense fog, then swerves back violently to narrowly avoid a head-on collision with a white van that appears suddenly."
+001440,Safe,"A small black car waits patiently behind a large truck in foggy conditions, waiting for a clear and safe moment to pass."
+001441,Crash,"A dark car pulls out from a gas station without looking and is T-boned by the dashcam car, which is unable to stop in time on the snowy road."
+001441,Near-Crash,"A dark car pulls out suddenly from a gas station onto the snowy road, forcing the dashcam car to brake hard and swerve to narrowly avoid a collision."
+001441,Safe,"The dashcam car drives at a reduced speed on a snowy road, cautiously passing a gas station on the right."
+001442,Crash,"A white van makes an illegal U-turn directly into the path of the dashcam car, resulting in a violent T-bone collision."
+001442,Near-Crash,"A white van makes a sudden U-turn, forcing the dashcam car to slam on its brakes and skid to a stop just inches from a T-bone collision."
+001442,Safe,A white van signals and waits for traffic to clear before safely completing a U-turn on the city street.
+001443,Crash,A black car speeds through an intersection and violently T-bones a white sedan that is making a turn.
+001443,Near-Crash,"A black car nearly collides with a white sedan at an intersection after misjudging the timing of the turn, braking hard to avoid a T-bone crash."
+001443,Safe,"A black car stops at an intersection, yielding the right-of-way to a white sedan making a turn."
+001444,Crash,"A white hatchback pulls out from a snowy parking lot directly into the path of the dashcam car, causing a T-bone collision."
+001444,Near-Crash,"A white hatchback, guided by a person, pulls out too quickly from a snowy lot, forcing the dashcam car to brake hard to narrowly avoid a collision."
+001444,Safe,"A white hatchback waits for a clear opening in traffic, guided by a person on foot, before safely pulling out of a snowy parking lot."
+001445,Crash,"A blue sedan loses control on a snowy street, sliding sideways directly into the path of the dashcam car for a head-on collision."
+001445,Near-Crash,"A blue sedan begins to fishtail on the snowy road, but the driver regains control, narrowly avoiding a spinout as the dashcam car slows down."
+001445,Safe,"The dashcam car follows a blue sedan at a safe distance on a snowy road, allowing ample time to react to changing conditions."
+001446,Crash,A silver car runs a stop sign and is violently T-boned by a silver station wagon that has the right-of-way.
+001446,Near-Crash,"A silver sedan runs a stop sign, forcing a silver station wagon to brake hard to narrowly avoid a T-bone collision in the intersection."
+001446,Safe,"A silver station wagon and a silver sedan both stop at the intersection, waiting for the proper right-of-way before proceeding."
+001447,Crash,"A silver sedan loses control on a snowy highway, spinning sideways directly into the path of a large truck it was overtaking, resulting in a violent collision."
+001447,Near-Crash,"A silver sedan fishtails on a snowy highway while passing a large truck but regains control, narrowly avoiding a collision."
+001447,Safe,"A silver sedan drives cautiously on a snowy highway, maintaining a safe distance from a large truck."
+001448,Crash,"A black car loses control on a wet road, spinning across multiple lanes of traffic and narrowly missing several other vehicles."
+001448,Near-Crash,"A dark car hydroplanes on a wet road and nearly spins out, but the driver corrects and narrowly avoids hitting the guardrail."
+001448,Safe,"A dark car drives at a safe speed on a wet road, maintaining its lane position."
+001449,Crash,"A silver hatchback pulls out to overtake a bus on a narrow street and is violently T-boned by an oncoming car, narrowly missing the dashcam vehicle."
+001449,Near-Crash,"A silver hatchback pulls out to overtake a bus, forcing an oncoming car to brake hard and swerve to narrowly avoid a head-on collision."
+001449,Safe,A silver hatchback waits for oncoming traffic to clear before safely pulling out to overtake a stopped bus.
+001450,Crash,"A green tractor attempts a risky overtake on a narrow road, clips the back of a semi-truck, and crashes violently into a ditch."
+001450,Near-Crash,"A green tractor attempts to overtake a semi-truck but pulls back in abruptly to avoid an oncoming car, nearly clipping the back of the truck."
+001450,Safe,"A green tractor follows a semi-truck at a safe distance on a narrow road, waiting for a straight, clear section to pass."
+001451,Crash,"A white SUV loses control on a snowy road, sliding sideways into the oncoming lane and causing a violent head-on collision with a large truck."
+001451,Near-Crash,"A white SUV begins to slide on a patch of ice but corrects its steering, narrowly avoiding the oncoming lane."
+001451,Safe,"A white SUV drives cautiously on a snowy highway, maintaining a safe distance and speed."
+001452,Crash,"A white van runs a red light and is violently T-boned by a dark SUV, with the dashcam car slamming on its brakes to avoid the sudden collision."
+001452,Near-Crash,"A white van runs a red light but slams on the brakes, skidding to a stop just inches from being T-boned by a dark SUV."
+001452,Safe,"A white van stops smoothly at a red light, waiting for the signal to turn green before proceeding."
+001453,Crash,A silver car stops for a pedestrian and is violently rear-ended by a gray hatchback that fails to stop in time.
+001453,Near-Crash,"A silver car brakes hard to avoid hitting a pedestrian, and the car behind it swerves sharply to narrowly avoid a rear-end collision."
+001453,Safe,A silver car comes to a gentle stop at a crosswalk to allow a pedestrian to cross safely.
+001454,Crash,"A silver hatchback runs a red light at a busy intersection, narrowly dodging a bus before being T-boned by the dashcam car."
+001454,Near-Crash,"A silver hatchback runs a red light but accelerates quickly, narrowly avoiding being T-boned by a bus and the dashcam car."
+001454,Safe,A silver hatchback slows down and stops safely at a red light at a busy intersection.
+001455,Crash,"A vintage black car loses control on the snow, sliding directly into the front of the dashcam vehicle with significant impact."
+001455,Near-Crash,"A vintage black car loses traction on the icy road and skids sideways, narrowly avoiding a head-on collision with the stationary dashcam vehicle."
+001455,Safe,"A vintage black car drives cautiously on a snowy road, maintaining control while navigating past a stopped car and truck."
+001456,Crash,A gold sedan blasts through a red light and smashes into the side of the dashcam car as it legally makes a left turn.
+001456,Near-Crash,"As the dashcam car begins its left turn on a green arrow, a gold sedan runs its red light, speeding through the intersection and narrowly missing a collision."
+001456,Safe,"The dashcam car approaches a green light, slows down to ensure the intersection is clear, and proceeds to make a safe left turn."
+001457,Crash,A white car runs the red light and violently T-bones the silver sedan in the middle of the intersection.
+001457,Near-Crash,"A white car suddenly appears, speeding through the intersection and forcing the silver sedan to brake hard to avoid a T-bone collision."
+001457,Safe,"A silver sedan cautiously proceeds through an intersection at dusk, maintaining a steady speed and checking for cross-traffic."
+001458,Crash,"A pedestrian unexpectedly darts out from behind a parked van directly into the path of the motorcycle, resulting in a sudden and unavoidable collision."
+001458,Near-Crash,"A person suddenly runs into the street from the sidewalk, forcing the motorcycle to brake hard and swerve to narrowly avoid hitting them."
+001458,Safe,"A motorcycle proceeds cautiously down a narrow city street, maintaining a slow speed and staying aware of pedestrians and parked vehicles."
+001459,Crash,"A dark SUV pulls out from a side road without yielding, causing the dashcam car to T-bone it at full speed in a violent crash."
+001459,Near-Crash,"A dark SUV pulls out aggressively from a side road directly into the path of the dashcam car, forcing it to swerve onto the shoulder to avoid a high-speed collision."
+001459,Safe,A dark SUV waits for a safe gap in traffic before carefully pulling out from a side road onto a curving main road.
+001460,Crash,"A dark gray van loses control while changing lanes, sharply cutting off and colliding with the car behind it, causing a multi-car pileup."
+001460,Near-Crash,"A dark gray van swerves abruptly into the dashcam car's lane without signaling, forcing the driver to brake hard to avoid being sideswiped."
+001460,Safe,"A dark gray van drives steadily in the center lane of a highway, maintaining a safe and consistent distance from the cars around it."
+001461,Crash,"A large truck loses control while overtaking, jackknifing and swerving into the dark SUV, sending both vehicles careening off the road."
+001461,Near-Crash,"A large truck merges aggressively into the lane right in front of the dark SUV, forcing the SUV to brake suddenly on the slick road."
+001461,Safe,A dark SUV drives at a steady pace in its lane on a winter highway as a large truck safely overtakes it on the right.
+001462,Crash,"A dark sedan attempts to cut in front of the dashcam car, loses control on the snow, and spins out, causing a collision with the dashcam car and the truck next to it."
+001462,Near-Crash,"A dark sedan aggressively cuts in front of the dashcam car on the icy road, losing traction for a moment before speeding off."
+001462,Safe,"A dark sedan signals and smoothly merges into the lane in front of the dashcam car on a winter road, maintaining a safe following distance."
+001463,Crash,"A white pickup truck, blinded by the sun, fails to notice the stopped traffic ahead and slams into the back of the car in front of it."
+001463,Near-Crash,"A white pickup truck brakes hard at the last second, narrowly avoiding a rear-end collision as traffic comes to a sudden stop in the bright sun."
+001463,Safe,"A white pickup truck maintains a safe following distance in heavy traffic, slowing down gradually as the cars ahead brake, despite heavy sun glare."
+001464,Crash,"A silver car loses control completely on the icy highway, spinning multiple times before crashing into the snow-filled ditch."
+001464,Near-Crash,"A silver car hits an icy patch and begins to spin, but the driver corrects the skid just in time to avoid hitting the snowbank."
+001464,Safe,"A silver car drives cautiously on a snowy highway at night, reducing speed to maintain control through a patch of blowing snow."
+001465,Crash,"A white sedan makes a U-turn directly into the path of a large truck, which collides with it and flips its trailer onto the car."
+001465,Near-Crash,"A white sedan begins a U-turn but brakes suddenly as a large truck bears down on it, with the truck swerving to narrowly avoid a collision."
+001465,Safe,A white sedan waits patiently for a large truck to pass before attempting to make a U-turn on the snowy road.
+001466,Crash,"A dark SUV pulls out from a parking spot without looking and is T-boned by the dashcam car, which had no time to stop."
+001466,Near-Crash,"A dark SUV pulls out suddenly from a parking spot, forcing the approaching dashcam car to brake hard and swerve to avoid a collision."
+001466,Safe,A dark SUV carefully checks for traffic before slowly and safely pulling away from a parallel parking spot.
+001467,Crash,"A silver sedan attempts to pass on the snowy road, loses control, and slides sideways directly into the path of the dashcam car for a massive head-on impact."
+001467,Near-Crash,"A silver sedan pulls into the oncoming lane to pass, then swerves back violently to avoid a head-on collision with the approaching dashcam car."
+001467,Safe,"A silver sedan approaches an oncoming car on a snowy two-lane road and maintains its position, waiting for a clear opportunity to pass."
+001468,Crash,"A dark SUV loses control while changing lanes on the icy patch, spinning out and colliding with the side of a silver sedan."
+001468,Near-Crash,"A dark SUV abruptly swerves into the right lane without signaling, losing traction for a moment before recovering just inches from the silver car."
+001468,Safe,"A dark SUV signals its intent and carefully merges into the right lane on a sunny but snowy road, maintaining a safe distance."
+001469,Crash,"A dark hatchback loses control on the icy mountain curve, spins out, and slams backward into the snowy cliffside."
+001469,Near-Crash,"A dark hatchback loses traction on the icy mountain curve and slides towards the edge of the road, recovering just before hitting the guardrail."
+001469,Safe,"A dark hatchback drives slowly and carefully around a sharp, snowy mountain curve, staying well within its lane."
+001470,Crash,"A dark sedan follows a truck into the oncoming lane to pass and collides head-on with the dashcam vehicle, which had no time to react."
+001470,Near-Crash,"A dark sedan follows a truck into the oncoming lane to pass, then swerves aggressively onto the shoulder to avoid a head-on collision with the dashcam car."
+001470,Safe,A dark sedan waits for a truck to finish passing before checking for oncoming traffic and proceeding safely.
+001471,Crash,"A white vintage car pulls out directly in front of the dashcam car, causing a violent T-bone collision that shatters the windows."
+001471,Near-Crash,"A white vintage car pulls out from a side road, misjudging the speed of the dashcam car and forcing it to brake and swerve sharply."
+001471,Safe,A white vintage car waits for a safe gap in traffic before pulling carefully onto the main road.
+001472,Crash,"A truck passing a white car loses control in the fog, jackknifing and swinging its trailer directly into the side of the car."
+001472,Near-Crash,"A truck passing a white car in heavy fog begins to jackknife, but the driver corrects it at the last moment, narrowly avoiding the car."
+001472,Safe,"A white car maintains a steady speed and increases its following distance while driving in heavy fog, anticipating reduced visibility."
+001473,Crash,"A truck ahead loses control on the ice and jackknifes, its trailer swinging across the entire highway and colliding with the dashcam car."
+001473,Near-Crash,"A truck ahead begins to jackknife on the icy road, but the driver manages to straighten it out just before it swings into the dashcam car's lane."
+001473,Safe,"The dashcam car keeps a significant distance from the truck ahead on a snowy highway, preparing for potential hazards."
+001474,Crash,"A car in the distance loses control on the snowy highway, spinning wildly across multiple lanes and crashing into the snowbank."
+001474,Near-Crash,"A car in the distance loses control and spins out on the snowy highway, coming to a stop on the shoulder without involving other vehicles."
+001474,Safe,"The dashcam car maintains a safe speed and following distance on a wide, snowy highway, allowing for plenty of reaction time."
+001475,Crash,"A blue van loses control on the slushy road, veering across the centerline and crashing head-on into a tan sedan."
+001475,Near-Crash,"A blue van skids on a patch of slush, swerving sharply into the oncoming lane before the driver regains control, narrowly missing a tan sedan."
+001475,Safe,"A blue van slows down on a slushy, snowy road, carefully navigating around a turning vehicle while maintaining control."
+001476,Crash,"A tan car pulls out from the curb directly into the path of the dashcam car, resulting in a sudden and forceful T-bone crash."
+001476,Near-Crash,"A tan car pulls out from the curb without signaling, forcing the dashcam car to brake hard and swerve to avoid a collision."
+001476,Safe,"A tan car waits for a bus to pass and then carefully pulls away from the curb, merging safely into traffic."
+001477,Crash,"A black car loses control on a snowy corner, sliding sideways and slamming into a utility pole, catapulting a pedestrian into the air."
+001477,Near-Crash,"A black car starts to slide while turning at a snowy intersection, but the driver corrects the skid and narrowly avoids hitting a utility pole."
+001477,Safe,"A black car approaches an intersection on a sunny, snowy day, slows down, and makes a controlled right turn."
+001478,Crash,"A red car attempts to pass on a snowy road, loses control when avoiding an oncoming truck, and spins sideways into a deep snowbank."
+001478,Near-Crash,A red car pulls into the oncoming lane to pass but has to swerve violently off the road into a snowbank to avoid a head-on collision with a truck.
+001478,Safe,A red car signals to pass on a snowy two-lane road but safely merges back behind the other car upon seeing an oncoming truck.
+001479,Crash,"A dark car loses control while overtaking, spinning out and colliding head-on with the dashcam car, causing the windshield to shatter."
+001479,Near-Crash,"A dark car loses traction on a patch of black ice while overtaking, skidding sideways across the lane before the driver regains control."
+001479,Safe,"A dark car overtakes the dashcam car on a clear highway, signaling properly and maintaining a safe distance as it merges back into the lane."
+001480,Crash,"A massive highway sign breaks loose from the overpass and falls directly onto the car in front, crushing it instantly."
+001480,Near-Crash,"A large highway sign from the overpass suddenly detaches and falls, landing just behind the car in front, forcing the dashcam car to swerve."
+001480,Safe,"The dashcam car drives at a steady speed on a highway, maintaining a safe distance from other vehicles as it passes under an arched overpass."
+001481,Crash,"An oncoming red truck loses control on the ice, jackknifing and sliding directly into the smaller truck and the dashcam car, causing a massive pileup."
+001481,Near-Crash,"An oncoming red truck loses traction on the icy road and swerves violently, its trailer swinging out before the driver regains control, narrowly missing the dashcam car."
+001481,Safe,"The dashcam car cautiously approaches a stopped truck on a narrow, snowy road, preparing to pass when the oncoming lane is clear."
+001482,Crash,"A dark car turns left into the path of a speeding white sedan, which T-bones it, sending the white car rolling violently across the intersection."
+001482,Near-Crash,"A white sedan speeds through an intersection just as a dark car attempts a left turn, forcing the dark car to brake suddenly to avoid a T-bone collision."
+001482,Safe,"A white sedan approaches an intersection, slows down for a turning vehicle, and then proceeds safely through the green light."
+001483,Crash,"A white car attempts to overtake a stopped vehicle and collides head-on with the dashcam car in a violent, high-speed impact."
+001483,Near-Crash,A white car pulls out to overtake a stopped vehicle but has to swerve back abruptly to avoid a head-on collision with the dashcam car.
+001483,Safe,"A white car signals and safely overtakes a motorcycle and a stopped car on a rural two-lane road, ensuring the oncoming lane is clear."
+001484,Crash,"A motorcycle, unable to avoid a large box on the highway, strikes it at high speed, causing the rider to lose control and crash violently."
+001484,Near-Crash,"A motorcycle swerves sharply at the last second, narrowly dodging a large box that has fallen onto the highway from a truck."
+001484,Safe,"A motorcycle safely changes lanes to avoid a piece of debris on the highway, signaling and checking for traffic before moving over."
+001485,Crash,"A white vintage sedan executes a slow U-turn directly in front of the dashcam car, which slams into its side, shattering the windows."
+001485,Near-Crash,"A white vintage sedan begins a U-turn at night, then stops suddenly in the lane, forcing the approaching dashcam car to brake hard and swerve."
+001485,Safe,A white vintage sedan waits at an intersection at night for the dashcam car to pass before safely completing its turn.
+001486,Crash,"A dark sedan loses control on the icy road, spinning sideways and colliding head-on with the dashcam car in an explosive impact that sends debris flying."
+001486,Near-Crash,"A dark sedan loses traction on an icy patch, sliding into the oncoming lane before the driver corrects and narrowly avoids a head-on collision with the dashcam car."
+001486,Safe,"A dark sedan drives cautiously on a snowy residential street, maintaining a safe speed and staying in its lane as it passes oncoming traffic."
+001487,Crash,"A gold car loses control while overtaking on a snowy road, spinning out and sliding off the road into a deep snowbank."
+001487,Near-Crash,"A gold car overtakes on a snowy road, hits a patch of ice, and fishtails violently but manages to correct the skid without crashing."
+001487,Safe,"A gold car safely completes an overtake on a sunny, snow-lined road, merging back into its lane with full control."
+001488,Crash,"A silver car loses all traction during a left turn, spinning out of control and sliding across the road into a snowbank and a parked van."
+001488,Near-Crash,A silver car starts to spin out while turning left on an icy road but the driver corrects the skid and narrowly avoids hitting the dashcam car.
+001488,Safe,"A silver car slows down and makes a controlled left turn at a snowy intersection, carefully navigating the slippery conditions."
+001489,Crash,"A small dark car hydroplanes on the water-slicked road next to a truck, losing control and spinning into the side of the semi-trailer."
+001489,Near-Crash,"A small dark car is momentarily blinded by a huge plume of water from the truck, causing the driver to swerve slightly before regaining control."
+001489,Safe,"A small dark car drives steadily beside a large truck on a wet highway, anticipating the heavy spray from the truck's wheels."
+001490,Crash,"A small dark car loses control while changing lanes on the icy highway, spinning out and colliding with a white van and then being struck by a semi-truck."
+001490,Near-Crash,"A small dark car hits a patch of ice while changing lanes, fishtailing wildly between two large trucks before the driver recovers."
+001490,Safe,"A small dark car navigates carefully between lanes on a congested and icy highway, maintaining a safe distance from surrounding trucks."
+001491,Crash,"A silver car attempts to overtake at the exact moment a truck pulls off the shoulder, resulting in a high-speed collision."
+001491,Near-Crash,A silver car is forced to brake hard and swerve during an overtake as a truck unexpectedly pulls out from the snowy shoulder.
+001491,Safe,"A silver car safely overtakes a slower vehicle on a winter highway, maintaining a safe distance from a truck parked on the shoulder."
+001492,Crash,A semi-truck loses control on the icy highway and jackknifes directly into the path of an oncoming snowplow.
+001492,Near-Crash,"A semi-truck begins to slide on the icy road as a snowplow approaches, but the driver corrects just in time to prevent a collision."
+001492,Safe,"A semi-truck maintains a slow, steady speed while a snowplow approaches from the opposite direction, giving it plenty of space on the snowy highway."
+001493,Crash,"A dark SUV attempts to overtake but cannot merge back in time, resulting in a catastrophic head-on collision with an oncoming truck."
+001493,Near-Crash,"A dark SUV pulls out to overtake, misjudges the speed of an oncoming truck, and is forced to swerve back into its lane with inches to spare."
+001493,Safe,"A dark SUV waits for a clear opening before safely overtaking a vehicle on a multi-lane, snow-lined highway."
+001494,Crash,"A red car loses control on the icy, snow-covered road and slides sideways into a direct head-on collision with the dashcam car."
+001494,Near-Crash,"A red car suddenly appears out of the snowy haze, swerving at the last moment to avoid a head-on collision with the dashcam car."
+001494,Safe,"A red car drives cautiously on a snow-covered road with low visibility, maintaining a slow and steady speed as it approaches."
+001495,Crash,"A silver van loses control while overtaking a dump truck on a wet curve and veers sharply, violently sideswiping the car carrier truck it is passing."
+001495,Near-Crash,"A silver van swerves sharply while overtaking a dump truck on a wet curve, nearly sideswiping the car carrier truck in the adjacent lane before correcting."
+001495,Safe,"A silver van carefully overtakes an orange dump truck on a wet highway curve, maintaining its lane and a safe distance from other vehicles."
+001496,Crash,"A blue police van, responding to a call, loses control on the icy road and slides directly into the path of an oncoming truck."
+001496,Near-Crash,"A blue police van slides on an icy patch while trying to get through traffic, narrowly avoiding a collision with a large truck."
+001496,Safe,"A blue police van navigates through traffic on a snowy road, using its lights to safely alert other drivers as it moves through an intersection."
+001497,Crash,"A tram fails to stop at a red light and plows into the side of the dashcam van, throwing the passengers inside forward violently."
+001497,Near-Crash,"A tram runs a red light but the driver of the dashcam van brakes hard, stopping just inches from being T-boned."
+001497,Safe,"A tram approaches an intersection and comes to a controlled stop at the red light, allowing traffic to pass safely in front of it."
+001498,Crash,"A person runs out from between parked cars and is struck by an oncoming vehicle, which had no time to stop on the icy road."
+001498,Near-Crash,"A person darts out from between parked cars into the path of an oncoming vehicle, which slams on its brakes and skids to a stop just in time."
+001498,Safe,A person carefully checks for traffic before stepping out from between parked cars to cross a snowy street.
+001499,Crash,"A huge section of a building's facade detaches and crashes down directly onto the front of the dashcam car, completely crushing it."
+001499,Near-Crash,"A large panel of debris breaks loose from a building and falls toward the street, narrowly missing the dashcam car as it drives by."
+001499,Safe,"A driver proceeds cautiously down a city street as a piece of debris falls from a building, landing harmlessly on the road ahead."
+001500,Crash,"A red car ignores a stop sign and drives directly into the path of the dashcam car, resulting in a violent T-bone crash at the intersection."
+001500,Near-Crash,"A red car runs a stop sign and pulls into the intersection, forcing the dashcam car to brake hard and swerve to avoid a T-bone collision."
+001500,Safe,"A red car approaches an intersection and yields to the dashcam car, which has the right of way, before proceeding."
