@@ -1,7 +1,7 @@
 # LLM-driven Framework for Controllable Crash Scenario Generation
 
 <p align="center">
-  <img src="assets/architecture.png" alt="Framework Architecture" width="800"/>
+  <img src="architecture.pdf" alt="Framework Architecture" width="800"/>
 </p>
 
 ## 🔍 Overview
